@@ -23,4 +23,6 @@ Use *issues* to spark a discussion and *pull requests* to contribute to the spec
 
 # [Character](Section -- Character.md)
 
+# [Character](Section -- Sound.md)
+
 # [VR](Section -- VR.md)
