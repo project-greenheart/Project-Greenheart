@@ -10,5 +10,4 @@ It should be like this because it encourages players to be more strategic, but c
 
 ## Skills
 
-
 ## Leveling

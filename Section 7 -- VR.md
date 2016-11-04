@@ -13,5 +13,5 @@ which makes ES VI one of the perfect games for it.
 
 ## VR-first
 
-ES VI should not be VR-first. That's might not be profitable and not everyone
+ES VI should not be VR-first. It might not be a profitable move and not everyone
 can afford VR yet.
