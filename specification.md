@@ -1,20 +1,29 @@
-Project Greenheart (Elder Scrolls IV) Specification
+Project Greenheart (Elder Scrolls VI) Specification
 ---------------------------------------------------
 
 **Introduction**
+
 This is unofficial Specification for Elder Scrolls VI,
 which is called under the code name Project Greenheart.
 The code name Project Greenheart comes from the Bethesda letter which was spread
 around the internet. The letters legitimacy is still unconfirmed but is
 now believed to be real due to the Fallout: Nuka-World prediction.
 
-# Philosophy
+Disclaimer:
+Right now in early stages and I do not have a lot of knowledge about the Elder Scrolls series as a whole. Have only played Skyrim.
 
-As every desires different experiences from the Elder Scrolls,
-some basic principles needs to be set.
+Please contribute with your ideas!
+Use *issues* to spark a discussion and *pull requests* to contribute with changes to
+the specification.
 
-**Explore new ideas**
-The Elder Scrolls series should not be obliged to follow it's history.
-The series should be more free to explore new interesting ideas.
+# [Philosophy](Section 1 -- Philosophy.md)
 
-**Immersion**
+# [Skills](Section 2 -- Skills.md)
+
+# [Combat](Section 3 -- Combat.md)
+
+# [Story](Section 4 -- Story.md)
+
+# [Character](Section 5 -- Character.md)
+
+# [VR](Section 6 -- VR.md)
