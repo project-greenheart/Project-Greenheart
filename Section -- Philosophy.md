@@ -1,8 +1,8 @@
 # Philosophy
 
-As everyone desires different experiences from the Elder Scrolls, some basic principles needs to be set of what the next TES game should be like. Conflicting basic ideas will stagger development of the specification and will exists for now.
+As everyone desires different experiences from the Elder Scrolls, some basic principles needs to be set of what the next TES game should be like. Conflicting basic principles will stagger development of the specification and will thus exists for now.
 
-TODO: Philosophy section might be removed as it might be limiting the ideas.
+TODO: Add or remove basic principles.
 
 **Explore new ideas**
 

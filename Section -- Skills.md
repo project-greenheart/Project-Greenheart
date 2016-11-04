@@ -1,4 +1,4 @@
-# Skills/leveling/attributes system
+# System
 
 The skills system has changed from throughout the series, Morrowind/Oblivion and Skyrim has separate skilling systems.
 
@@ -10,4 +10,10 @@ It should be like this because it encourages players to be more strategic, but c
 
 ## Skills
 
+### Enchanting
+
+### Crafting
+
 ## Leveling
+
+## Classes

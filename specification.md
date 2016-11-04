@@ -11,16 +11,16 @@ Right now in early stages and I do not have a lot of knowledge about the Elder S
 Please contribute with your ideas!
 Use *issues* to spark a discussion and *pull requests* to contribute to the specification.
 
-# [Philosophy](Section 1 -- Philosophy.md)
+# [Philosophy](Section -- Philosophy.md)
 
-# [Skills](Section 2 -- Skills.md)
+# [Skills](Section -- Skills.md)
 
-# [Combat](Section 3 -- Combat.md)
+# [Combat](Section -- Combat.md)
 
-# [Mobs](Section 4 -- Mobs.md)
+# [Mobs](Section -- Mobs.md)
 
-# [Story](Section 5 -- Story.md)
+# [Story](Section -- Story.md)
 
-# [Character](Section 6 -- Character.md)
+# [Character](Section -- Character.md)
 
-# [VR](Section 7 -- VR.md)
+# [VR](Section -- VR.md)
