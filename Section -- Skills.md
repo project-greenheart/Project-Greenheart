@@ -1,16 +1,12 @@
-# System
-
-The skills system has changed from throughout the series, Morrowind/Oblivion and Skyrim has separate skilling systems.
-
 # Skills
 
 A skill is a scalar of how much you have done a certain set of actions. The higher you are on the scale, the more perks/advantages you get.
 
+TODO: Decide what kind of skills should be included in TES VI. E.g. Should there be 5 different magic skills or should some of them be combined? And what about non-combat skills, how many of them should remain and what skills should we add?
+
 ## Combat skills
 
 Combat skills are skills that increases when doing a set of combat actions. E.g. using a lot of spells will increase a certain magic skill.
-
-TODO: Decide what kind of skill should be included in TES VI. Should there be 5 different magic skills or should some of them be combined?
 
 ## Non-combat skills
 
