@@ -14,6 +14,9 @@ We want this project to be as transparent as possible and everyone is welcome wi
 We use write in [Spec Markdown](https://github.com/leebyron/spec-md), which is Markdown with some additions.
 
 To contribute
+
 1. Fork the repo
+
 2. ```npm install -g spec-md``` to install spec-md which is used to generate the html site from markdown. Make sure you have Node.js.
+
 3. Execute ```spec-md specification.md > index.html``` in forked folder to write html to ```index.html```.

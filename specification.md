@@ -15,6 +15,10 @@ Use *issues* to spark a discussion and *pull requests* to contribute to the spec
 
 # [Skills](Section -- Skills.md)
 
+# [Attributes](Section -- Attributes.md)
+
+# [Leveling](Section -- Leveling.md)
+
 # [Combat](Section -- Combat.md)
 
 # [Mobs](Section -- Mobs.md)
@@ -23,6 +27,8 @@ Use *issues* to spark a discussion and *pull requests* to contribute to the spec
 
 # [Character](Section -- Character.md)
 
-# [Character](Section -- Sound.md)
+# [Classes](Section -- Classes.md)
+
+# [Sound](Section -- Sound.md)
 
 # [VR](Section -- VR.md)
