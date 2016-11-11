@@ -29,3 +29,5 @@ Use [*issues*](https://github.com/project-greenheart/Project-Greenheart/issues) 
 # [Sound](Section -- Sound.md)
 
 # [VR](Section -- VR.md)
+
+# [Contribute](Section -- Contribute.md)

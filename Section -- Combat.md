@@ -19,4 +19,4 @@ Archery in Skyrim felt too monotonous. It was basically point and release and th
 
 Melee in Skyrim was basically just hack and slash in a very monotonous way. There's not much strategic play. Here the TES series could get some inspiration from Dark Souls.
 
-TODO: Explain fun mechanics from Dark Souls.
+TODO: Explain the inspiration from Dark Souls, in this case the combat mechanics which made the game fun

@@ -4,4 +4,4 @@ You level by gaining experience (XP). You get XP by slaying mobs. The stronger t
 
 There's no level cap, which also implies unlimited amount of attribute points.
 
-TODO: Talk about leveling in issues.
+TODO: Talk about leveling in `issues`.
